@@ -18,10 +18,8 @@ Git Google Cloud
 
 📈 Stats
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul2001singh"  /></a> </p> -->
-<img align="right" alt="Coding" width="230" height="230" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-<img align="right" alt="Coding" width="230" height="230" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nandybishal23&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atul2001singh&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atul2001singh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
