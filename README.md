@@ -21,14 +21,12 @@ Git Google Cloud
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atul2001singh&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
 
-<!-- <p align="center"><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=atul2001singh](https://activity-graph.herokuapp.com/graph?username=atul2001singh&theme=dracula)"  /></a> </p> -->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atul2001singh&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
-
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atul2001singh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+📈 Contributions
+<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nandybishal23&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Enjoy the profile
 
 </div>
