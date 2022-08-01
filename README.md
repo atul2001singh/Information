@@ -23,7 +23,7 @@ Git VSCode
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul2001singh"  /></a> </p>
 
-📈 Contributions
+🎓 Contributions
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atul2001singh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 <p align="center"><img align="center" src="https://activity-graph.herokuapp.com/graph?username=atul2001singh&theme=dracula"  /></a> </p>
 
