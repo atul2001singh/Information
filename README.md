@@ -5,10 +5,10 @@ Find out more about me & feel free to connect with me here:
 
 ⚡ Tech Stack
 🚀 Languages
-C C++ Python JavaScript Java
+C  Python JavaScript Java
 
 💻 Front-End Technologies
-HTML CSS3 Bootstrap React
+HTML CSS3 React
 
 💻 Back-End Technologies & Databases
 Nodejs MongoDB
