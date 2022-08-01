@@ -14,13 +14,14 @@ HTML CSS3 React
 Nodejs MongoDB
 
 🧑🏻‍💻 Tools & Platform
-Git Google Cloud
+Git VSCode
 
 📈 Stats
 <!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul2001singh"  /></a> </p> -->
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=atul2001singh&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atul2001singh"  /></a> </p>
 
 📈 Contributions
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=atul2001singh&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
@@ -28,6 +29,6 @@ Git Google Cloud
 
 <div align="center">
 
-### Enjoy the profile
+### Enjoy the repositories
 
 </div>
